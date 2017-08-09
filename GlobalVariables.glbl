@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description>Demo Application URL</description>
+      <initValue>'http://demoaut.katalon.com/profile.php#login'</initValue>
+      <name>URL_Application</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

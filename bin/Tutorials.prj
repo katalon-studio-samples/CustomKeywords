@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This project contains tutorials of Katalon Studion Features</description>
+   <name>Tutorials</name>
+   <tag></tag>
+   <UUID>c4115f9c-b955-4fe5-9a24-59295a112e17</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
